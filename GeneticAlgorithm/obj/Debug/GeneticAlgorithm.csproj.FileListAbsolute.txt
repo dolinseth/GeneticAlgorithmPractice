@@ -1,0 +1,6 @@
+C:\Users\Seth Dolin\Documents\Visual Studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\Seth Dolin\Documents\Visual Studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\Seth Dolin\Documents\Visual Studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Seth Dolin\Documents\Visual Studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Seth Dolin\Documents\Visual Studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\Seth Dolin\Documents\Visual Studio 2017\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
